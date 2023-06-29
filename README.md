@@ -1,1 +1,1 @@
-# kdd2023-self-similar-gnn
+# self-similar-gnn
